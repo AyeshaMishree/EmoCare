@@ -1,6 +1,6 @@
 # EmoCare 💙  
 Your personal mental wellness tracker
-
+(this repository contains overview only, source code is private due to confidentiality)
 ![EmoCare (1)](https://github.com/user-attachments/assets/d85ade04-7aee-41f4-9692-3f85438dd3e7)
 EmoCare helps you stay in touch with your emotions by allowing you to log daily moods, monitor trends, and reflect through visual insights. Whether you're a student, professional, or just someone looking to stay balanced — EmoCare is your gentle emotional companion.
 
@@ -43,6 +43,11 @@ We respect your privacy. EmoCare stores all emotional data **locally on your dev
 Feel free to leave feedback, suggestions, or issues in the **[Issues](ayeshamishree@gmail.com)** tab, or on the [itch.io page](https://ayeshamishree.itch.io/).
 
 ---
+
+🚀 Project Status
+The project is completed and source code is private, due to confidential information in project.
+
+For collaboration inquiries or further information, feel free to reach out (email to: ayeshamishree@gmail.com).
 
 ## 📸 Screenshots
 ![1](https://github.com/user-attachments/assets/aaa8a449-2fa2-4b0d-90d6-1b917ea1899f)
